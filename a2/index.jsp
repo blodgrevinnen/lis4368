@@ -39,6 +39,15 @@
 					<img src="img/database_connectivity1.png" class="img-responsive center-block" alt="Database Connectivity Using Servlets" />
 				<br />
 					<img src="img/database_connectivity2.png" class="img-responsive center-block" alt="Database Connectivity Using Servlets" />
+					<b>Skillset 1</b><br />
+					<img src="img/skillset-1.png" class="img-responsive center-block" alt="Skillset 1" />
+					<br />
+					<b>Skillset 2</b><br />
+					<img src="img/skillset-2.png" class="img-responsive center-block" alt="Skillset 2" />
+					<br />
+					<b>Skillset 3</b><br />
+					<img src="img/skillset-3.png" class="img-responsive center-block" alt="Skillset 3" />
+					<br />
 
 	<%@ include file="/global/footer.jsp" %>
 
