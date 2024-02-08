@@ -21,7 +21,7 @@
 
 #### Assessment Links:
 - http://localhost:9999/hello
-- http://localhost:9999/hello/HelloHome.html \s\s
+- http://localhost:9999/hello/HelloHome.html  
   (HelloHome.html is later changed to index.html, so this link is currently invalid and only included for the sake of being thorough)
 - http://localhost:9999/hello/sayhello
 - http://localhost:9999/hello/querybook/html
