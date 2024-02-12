@@ -12,11 +12,11 @@
 *Deliverables:*
 
 1. Entity Relationship Diagram (ERD)
-2. Include data (at least 10 records in each table)
-3. Provide Bitbucket read-only access to repo (Language SQL). *must* include README.md using Markdown syntax and include linsk to all of the following files (from README.md):
-- docs folder: a3.mwb and a3.sql
-- img folder: a3.png (export a3.mwb file as a3.png)
-- README.md (*MUST* display a3.png ERD)
+1. Include data (at least 10 records in each table)
+1. Provide Bitbucket read-only access to repo (Language SQL). *must* include README.md using Markdown syntax and include link to all of the following files (from README.md):
+    - docs folder: a3.mwb and a3.sql
+    - img folder: a3.png (export a3.mwb file as a3.png)
+    - README.md (*MUST* display a3.png ERD)
 
 #### README.md file should include the following items:
 
