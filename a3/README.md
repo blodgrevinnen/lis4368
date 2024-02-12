@@ -38,7 +38,7 @@
 *Screenshot of a3/index.jsp*
 ![A3 Index](img/a3index.png "A3 Index Screenshot")
 
-*A3 docs: a3.mwb and a3.sql*:  
+*A3 docs: a3.mwb and a3.sql*: \
 [A3 MWB File](docs/a3.mwb "A3 ERD in .mwb format")
 [A3 SQL File](docs/a3.sql "A3 SQL Script")
 
