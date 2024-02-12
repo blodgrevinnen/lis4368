@@ -26,19 +26,12 @@
 * Links to a3.mwb and a3.sql
 
 
-#### Assignment Screenshots:
-
-*Screenshot of Querybook Page http://localhost:9999/hello/querybook.html*:
-
-![Querybook Screenshot](img/database_connectivity1.png)
-
-*Screenshot of Query Results*:
-
-![Query Results Screenshot](img/database_connectivity2.png)
-
-*Screenshot of a2/index.jsp*:
-
-![Android Studio Installation Screenshot](img/a2_index.png)
+#### Assignment Screenshot and Links:
+*Screenshot A3 ERD*:
+![A3 ERD](img/a3.png "ERD based upon A3 Requirements")
+*A3 docs: a3.mwb and a3.sql*:
+[A3 MWB File](docs/a3.mwb "A3 ERD in .mwb format")
+[A3 SQL File](docs/a3.sql "A3 SQL Script")
 
 #### Skillset Screenshots
 
