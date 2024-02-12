@@ -27,7 +27,7 @@
 
 
 #### Assignment Screenshot and Links:
-*Screenshot of A3 ERD*:
+*Screenshot of A3 ERD*: <br />
 ![A3 ERD](img/a3.png "ERD based upon A3 Requirements")
 
 *Screenshot of 10 Records for Each Table*
