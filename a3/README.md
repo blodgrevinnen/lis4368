@@ -36,14 +36,14 @@
 
 #### Skillset Screenshots
 
-*Screenshot of Skillset 1*
+*Screenshot of Skillset 4*
 
-![Skillset 1 Screenshot](img/skillset-1.png)
+![Skillset 1 Screenshot](img/skillset-4.png)
 
-*Screenshot of Skillset 2*
+*Screenshot of Skillset 5*
 
-![Skillset 2 Screenshot](img/skillset-2.png)
+![Skillset 2 Screenshot](img/skillset-5.png)
 
-*Screenshot of Skillset 3*
+*Screenshot of Skillset 6*
 
-![Skillset 3 Screenshot](img/skillset-3.png)
+![Skillset 3 Screenshot](img/skillset-6.png)
