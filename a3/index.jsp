@@ -38,7 +38,7 @@
 					<b>MySQL Workbench and SQL Files:</b><br />
 					<a href="docs/a3.mwb">Petstore MySQL Workbench File</a>
 				<br />
-					<a href="docs/a3.sql">Petstore SQL File</a>				
+					<a href="docs/a3.sql">Petstore SQL File</a><br />		
 
 	<%@ include file="/global/footer.jsp" %>
 

@@ -27,12 +27,20 @@
 
 
 #### Assignment Screenshot and Links:
-*Screenshot A3 ERD*:
+*Screenshot of A3 ERD*:
 ![A3 ERD](img/a3.png "ERD based upon A3 Requirements")
 
+*Screenshot of 10 Records for Each Table*
+![Table 1](img/table1.png "Table 1 Screenshot")
+![Table 2](img/table2.png "Table 2 Screenshot")
+![Table 3](img/table3.png "Table 3 Screenshot")
+
+*Screenshot of a3/index.jsp*
+![A3 Index](img/a3index.png "A3 Index Screenshot")
+
 *A3 docs: a3.mwb and a3.sql*:
-![A3 MWB File](docs/a3.mwb "A3 ERD in .mwb format")
-![A3 SQL File](docs/a3.sql "A3 SQL Script")
+[A3 MWB File](docs/a3.mwb "A3 ERD in .mwb format")
+[A3 SQL File](docs/a3.sql "A3 SQL Script")
 
 #### Skillset Screenshots
 
