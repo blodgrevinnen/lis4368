@@ -22,13 +22,14 @@
     - Database Connectivity Using Servlets
     - Complete Skillsets 1-3
 
-3. [A2 README.md](a3/README.md "My A3 README.md file")
+3. [A3 README.md](a3/README.md "My A3 README.md file")
+    - Entity Relationship Diagram (ERD)
+    - Complete Skillsets 4-6
+
+4. [A4 README.md](a4/README.md "My A4 README.md file")
     - TBD
 
-4. [A2 README.md](a4/README.md "My A4 README.md file")
-    - TBD
-
-5. [A2 README.md](a5/README.md "My A5 README.md file")
+5. [A5 README.md](a5/README.md "My A5 README.md file")
     - TBD
 
 6. [P1 README.md](p1/README.md "My P1 README.md file")
