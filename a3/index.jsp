@@ -38,7 +38,17 @@
 					<b>MySQL Workbench and SQL Files:</b><br />
 					<a href="docs/a3.mwb">Petstore MySQL Workbench File</a>
 				<br />
-					<a href="docs/a3.sql">Petstore SQL File</a><br />		
+					<a href="docs/a3.sql">Petstore SQL File</a><br />
+					
+					<br /><b>Skillset 4</b><br />
+					<img src="img/skillset-4.png" class="img-responsive center-block" alt="Skillset 1" />
+					<br />
+					<b>Skillset 5</b><br />
+					<img src="img/skillset-5.png" class="img-responsive center-block" alt="Skillset 2" />
+					<br />
+					<b>Skillset 6</b><br />
+					<img src="img/skillset-6.png" class="img-responsive center-block" alt="Skillset 3" />
+					<br />
 
 	<%@ include file="/global/footer.jsp" %>
 
