@@ -36,7 +36,7 @@
 *Screenshot of Skillset 8*
 
 ![Skillset 8 Screenshot 1](img/skillset-8_1.png)
-![Skillset 8 Screenshot 2](img/skillset-8_2.png)
+![Skillset 8 Screenshot 2](img/skillset-8_2.png) <br />
 ![Skillset 8 Screenshot 3](img/skillset-8_3.png)
 
 *Screenshot of Skillset 9*
