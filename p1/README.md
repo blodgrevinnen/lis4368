@@ -1,0 +1,42 @@
+> **NOTE:** This README.md file should be placed at the **root of each of your repos directories.**
+>
+>Also, this file **must** use Markdown syntax, and provide project documentation as per below--otherwise, points **will** be deducted.
+>
+
+# LIS 4368 - Advanced Web Applications
+
+## Tanner Morlan
+
+### Project 1 Requirements:
+
+*Deliverables:*
+
+1. Failed Validation
+1. Passed validation
+
+#### README.md file should include the following items:
+
+* Screenshot of failed validation
+* Screenshot of passed validation
+
+
+#### Assignment Screenshot and Links:
+*Screenshot of Failed Validation*: <br />
+![Failed Validation](img/failed-validation.png "Failed validation")
+
+*Screenshot of Passed Validation*: <br />
+![Failed Validation](img/passed-validation.png "Passed validation")
+
+#### Skillset Screenshots
+
+*Screenshot of Skillset 7*
+
+![Skillset 1 Screenshot](img/skillset-7.png)
+
+*Screenshot of Skillset 8*
+
+![Skillset 2 Screenshot](img/skillset-8.png)
+
+*Screenshot of Skillset 9*
+
+![Skillset 3 Screenshot](img/skillset-9.png)
