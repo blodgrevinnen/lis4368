@@ -33,7 +33,8 @@
     - TBD
 
 6. [P1 README.md](p1/README.md "My P1 README.md file")
-    - TBD
+    - Failed Validation
+    - Passed Validation
 
 7. [P2 README.md](p2/README.md "My P2 README.md file")
     - TBD

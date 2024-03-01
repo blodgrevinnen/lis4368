@@ -31,12 +31,14 @@
 
 *Screenshot of Skillset 7*
 
-![Skillset 1 Screenshot](img/skillset-7.png)
+![Skillset 7 Screenshot](img/skillset-7.png)
 
 *Screenshot of Skillset 8*
 
-![Skillset 2 Screenshot](img/skillset-8.png)
+![Skillset 8 Screenshot 1](img/skillset-8_1.png)
+![Skillset 8 Screenshot 2](img/skillset-8_2.png)
+![Skillset 8 Screenshot 3](img/skillset-8_3.png)
 
 *Screenshot of Skillset 9*
 
-![Skillset 3 Screenshot](img/skillset-9.png)
+![Skillset 9 Screenshot](img/skillset-9.png)
