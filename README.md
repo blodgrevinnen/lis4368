@@ -24,6 +24,7 @@
 
 3. [A3 README.md](a3/README.md "My A3 README.md file")
     - Entity Relationship Diagram (ERD)
+    - Include data (at least 10 records in each table)
     - Complete Skillsets 4-6
 
 4. [A4 README.md](a4/README.md "My A4 README.md file")
@@ -37,7 +38,8 @@
     - Use regexp to only allow appropriate characters for each control
     - Use HTML5 property to limit the number of characters for each control
     - Failed Validation
-    - Passed validation
+    - Passed Validation
+    - Complete Skillsets 7-9
 
 7. [P2 README.md](p2/README.md "My P2 README.md file")
     - TBD

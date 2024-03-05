@@ -15,7 +15,8 @@
 1. Use regexp to only allow appropriate characters for each control
 1. Use HTML5 property to limit the number of characters for each control
 1. Failed Validation
-1. Passed validation
+1. Passed Validation
+1. Complete Skillsets 7-9
 
 #### README.md file should include the following items:
 
