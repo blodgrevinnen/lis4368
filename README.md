@@ -33,8 +33,11 @@
     - TBD
 
 6. [P1 README.md](p1/README.md "My P1 README.md file")
+    - Use min/max jQuery validation
+    - Use regexp to only allow appropriate characters for each control
+    - Use HTML5 property to limit the number of characters for each control
     - Failed Validation
-    - Passed Validation
+    - Passed validation
 
 7. [P2 README.md](p2/README.md "My P2 README.md file")
     - TBD

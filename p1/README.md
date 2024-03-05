@@ -11,6 +11,9 @@
 
 *Deliverables:*
 
+1. Use min/max jQuery validation
+1. Use regexp to only allow appropriate characters for each control
+1. Use HTML5 property to limit the number of characters for each control
 1. Failed Validation
 1. Passed validation
 
