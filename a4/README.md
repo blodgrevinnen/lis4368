@@ -25,6 +25,7 @@
 * Screenshot of failed validation
 * Screenshot of passed validation
 * Screenshots of skillsets
+* Screenshot of server-side validation
 
 
 #### Assignment Screenshot and Links:
@@ -33,6 +34,12 @@
 
 *Screenshot of Passed Validation*: <br />
 ![Failed Validation](img/passed_validation.png "Passed validation")
+
+#### Server-side Validation
+
+*Screenshot of Server-side Validation Code*
+
+![Server-side Validation Code](img/server_side_validation.png "Server-side Validation")
 
 #### Skillset Screenshots
 
