@@ -28,7 +28,14 @@
     - Complete Skillsets 4-6
 
 4. [A4 README.md](a4/README.md "My A4 README.md file")
-    - TBD
+    - Learn about MVC and put it into practice
+    - Use regexp to only allow appropriate characters for each control
+    - Add server-side validation
+    - Compile servlet files
+    - Failed Validation
+    - Passed Validation
+    - Make server-side validation EXACTLY the same as client side
+    - Complete Skillsets 10-12
 
 5. [A5 README.md](a5/README.md "My A5 README.md file")
     - TBD
