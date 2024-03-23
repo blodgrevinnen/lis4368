@@ -114,15 +114,23 @@ public class CustomerServlet extends HttpServlet
 				String id_v = request.getParameter(null); //null used for auto increment pk field
 				String firstName_v = request.getParameter("fname");
 				String lastName_v = request.getParameter("lname");
+				String street_v = request.getParameter("street");
+				String city_v = request.getParameter("city");
+				String state_v = request.getParameter("state");
+				String zip_v = request.getParameter("zip");
+				String phone_v = request.getParameter("phone");
 				String email_v = request.getParameter("email");
+				String balance_v = request.getParameter("balance");
+				String totalSales_v = request.getParameter("total_sales");
+				String notes_v = request.getParameter("notes");
 				
 				//instantiate new customer object with associated object variable (user)
-				Customer user = new Customer(id_v, firstName_v, lastName_v, email_v);
+				Customer user = new Customer(id_v, firstName_v, lastName_v, street_v, city_v, state_v, zip_v, phone_v, email_v, balance_v, totalSales_v, notes_v);
 
 				//call data input validation method: *Must* agree in TON: type, order, number!
-				if(!isValidInput(firstName_v, lastName_v, email_v))
+				if(!isValidInput(firstName_v, lastName_v, street_v, city_v, state_v, zip_v, phone_v, email_v, balance_v, totalSales_v, notes_v))
 					{
-						message = "<span style='color: red; background-color: yellow; font-weight: bold; font-variant:small-caps;'>All text boxes required except Notes.</span>";
+						message = "<span style='color: red; background-color: yellow; font-weight: bold; font-variant:small-caps;'>All text boxes required except Notes. Please check your input.</span>";
 						url = "/customerform.jsp";
 					}
 				else
@@ -212,25 +220,54 @@ public class CustomerServlet extends HttpServlet
 	
 	//Note: in production environment need rigorous data validation:
 	//http://java-source.net/open-source/validation
-	
+
 	//create data input validation method: *Must* agree in TON: type, order, number!
-	private boolean isValidInput(String firstName_p, String lastName_p, String email_p)
-	{
-		if (
-				firstName_p == null ||
-				lastName_p == null ||
-				email_p == null ||
-								
-				firstName_p.isEmpty() ||
-				lastName_p.isEmpty() ||
-				email_p.isEmpty()
-				)
-			{
-				return false; //missing form data
-			} 
-		else
-			{
-				return true; //data not missing
-			}
+	private boolean isValidInput(String firstName_p, String lastName_p, String street_p, String city_p, String state_p, String zip_p, String phone_p, String email_p, String balance_p, String totalSales_p, String notes_p) {
+		
+		if (firstName_p == null || lastName_p == null || street_p == null || city_p == null || state_p == null || zip_p == null || phone_p == null || email_p == null || balance_p == null || totalSales_p == null || firstName_p.isEmpty() || lastName_p.isEmpty() || street_p.isEmpty() || city_p.isEmpty() || state_p.isEmpty() || zip_p.isEmpty() || phone_p.isEmpty() || email_p.isEmpty() || balance_p.isEmpty() || totalSales_p.isEmpty()) {
+			return false; //missing form data
+		}
+
+		if (firstName_p.length() > 15 || !firstName_p.matches("[a-zA-Z\\-]+")) {
+			return false; //invalid first name
+		}
+		
+		if (lastName_p.length() > 30 || !lastName_p.matches("[a-zA-Z\\-]+")) {
+			return false; //invalid last name
+		}
+		
+		if (street_p.length() > 30 || !street_p.matches("[a-zA-Z0-9,\\.\\- ]+")) {
+			return false; //invalid street
+		}
+		
+		if (city_p.length() > 30 || !city_p.matches("[a-zA-Z0-9\\- ]+")) {
+			return false; //invalid city
+		}
+		
+		if (state_p.length() != 2 || !state_p.matches("[a-zA-Z]+")) {
+			return false; //invalid state
+		}
+		
+		if (zip_p.length() < 5 || zip_p.length() > 9 || !zip_p.matches("[0-9]+")) {
+			return false; //invalid zip
+		}
+		
+		if (phone_p.length() != 10 || !phone_p.matches("[0-9]+")) {
+			return false; //invalid phone number
+		}
+		
+		if (email_p.length() > 100 || !email_p.matches("^([a-z0-9_\\.-]+)@([\\da-z\\.-]+)\\.([a-z\\.]{2,6})$")) {
+			return false; //invalid email
+		}
+		
+		if (!balance_p.matches("[0-9]+(?:\\.[0-9]+)?")) {
+				return false; //invalid balance
+		}
+		
+		if (!totalSales_p.matches("[0-9]+(?:\\.[0-9]+)?")) {
+			return false; //invalid total sales
+		}
+
+		return true; //data not missing
 	}	
 }
