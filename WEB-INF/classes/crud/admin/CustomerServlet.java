@@ -260,11 +260,11 @@ public class CustomerServlet extends HttpServlet
 			return false; //invalid email
 		}
 		
-		if (!balance_p.matches("[0-9]+(?:\\.[0-9]+)?")) {
+		if (balance_p.length() > 6 || !balance_p.matches("[0-9]+(?:\\.[0-9]+)?")) {
 				return false; //invalid balance
 		}
 		
-		if (!totalSales_p.matches("[0-9]+(?:\\.[0-9]+)?")) {
+		if (balance_p.length() > 6 || !totalSales_p.matches("[0-9]+(?:\\.[0-9]+)?")) {
 			return false; //invalid total sales
 		}
 
