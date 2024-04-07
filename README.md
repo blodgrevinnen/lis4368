@@ -38,7 +38,12 @@
     - Complete Skillsets 10-12
 
 5. [A5 README.md](a5/README.md "My A5 README.md file")
-    - TBD
+    - Add "data" file to crud
+    - Compile servlet files
+    - Show Pre-filled form
+    - Passed Validation
+    - Show database before and after form submission
+    - Complete Skillsets 13-15S
 
 6. [P1 README.md](p1/README.md "My P1 README.md file")
     - Use min/max jQuery validation

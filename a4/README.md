@@ -53,4 +53,4 @@
 
 *Screenshot of Skillset 12*
 
-![Skillset 9 Screenshot](img/skillset_12.png)
+![Skillset 12 Screenshot](img/skillset_12.png)
