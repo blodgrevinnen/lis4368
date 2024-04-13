@@ -191,7 +191,7 @@ public class Customer implements Serializable
 		return totalSales;
 	}
 
-	public void setTotalSale(String parTotalSales)
+	public void setTotalSales(String parTotalSales)
 	{
 		this.totalSales = parTotalSales;
 	}
@@ -201,7 +201,7 @@ public class Customer implements Serializable
 		return notes;
 	}
 
-	public void setNotese(String parNotes)
+	public void setNotes(String parNotes)
 	{
 		this.notes = parNotes;
 	}

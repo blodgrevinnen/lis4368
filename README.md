@@ -54,4 +54,12 @@
     - Complete Skillsets 7-9
 
 7. [P2 README.md](p2/README.md "My P2 README.md file")
-    - TBD
+    - Add create, read, update, and delete (CRUD) functionality
+    - Compile servlet files
+    - Show Pre-filled, valid user form entry
+    - Show passed validation
+    - Display data on website
+    - Modify form to edit database
+    - Display successfully modified data
+    - Show warning for "delete" option
+    - Show database with associated changes

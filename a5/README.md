@@ -29,10 +29,10 @@ Delete this file and place *your* README.md file here.
 
 #### Assignment Screenshot and Links:
 *Screenshot of Valid User Form Entry*: <br />
-![Failed Validation](img/valid_user_form_entry.png "Valid User Form Entry")
+![Valid User Form Entry](img/valid_user_form_entry.png "Valid User Form Entry")
 
 *Screenshot of Passed Validation*: <br />
-![Failed Validation](img/passed_validation.png "Passed validation")
+![Passed Validation](img/passed_validation.png "Passed validation")
 
 #### Associated Database Entry
 
